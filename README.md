@@ -48,5 +48,5 @@ It provides actionable insights on revenue, deal size, and win rates while imple
 ---
 
 ### 🖼️ Dashboard Preview   
-![Salesforce Revenue Dashboard](screenshots/salesforce_dashboard.png)
+![Salesforce Revenue Dashboard](screenshots/Salesforce_dashboard.png)
 
